@@ -1,0 +1,190 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+nav{
+    padding-right: 960px;
+    margin-top: 30px;
+}
+
+nav a{
+    margin: 8px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Accueil{
+    text-decoration: underline;   
+}
+
+.logo{
+   padding-left: 30px; 
+}
+
+.section1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.amour{
+    padding: 150px;
+    padding-right: 150px; 
+    font-size: 28px;
+    padding-left: 10px;
+}
+
+.amour h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: normal;
+}
+
+.amour p{
+    font-size: 23px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.amour h3{
+    font-size: 23px;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 15px;
+}
+
+span{
+    color: orangered;
+}
+
+.amour button{
+    background-color: black;
+    color: white;
+    width: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.paragraphe{
+    margin-bottom: 50px;
+}
+
+.img{
+  padding-right: 50px;
+}
+
+.adresse{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.sect2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.hrue{
+    font-weight: normal;
+}
+
+.pari{
+    font-weight: normal;
+}
+
+.hsaint{
+    font-weight: normal;
+}
+
+.p07{
+    font-weight: normal;
+}
+
+.sect3{
+    background-color: rgb(216, 62, 62);
+    height: 150px;
+    text-align: center;
+}
+
+.commo{
+    padding-top: 20px;
+    color: white;
+}
+
+.notre{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.sect3 button{
+    background-color: black;
+    color: white;
+    width: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.savoir{
+    text-align: justify;
+    margin-left: 100px;
+    font-size: 23px;
+    font-weight: normal;
+}
+
+.section3{
+    text-align: center;
+    padding-top: 250px;
+}
+
+.images{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    gap: 200px;
+    padding-left: 250px;
+}
+
+.retrouve{
+    font-size: 23px;
+    padding-bottom: 30px;
+}
+
+.contact h1{
+    font-size: 23px;
+    padding-bottom: 30px;
+}
+
+.contact p{
+    font-size: 23px;
+    font-weight: normal;
+}
+
+footer{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+footer a{
+    padding-right: 20px;
+    padding-top: 15x;
+}
+
+
+.img3{
+    height: 68px ;
+    width: 75px;
+}

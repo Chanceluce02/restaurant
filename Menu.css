@@ -1,0 +1,99 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+nav{
+    padding-right: 960px;
+    margin-top: 30px;
+}
+
+nav a{
+    margin: 8px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section1{
+    background-color: rgb(216, 62, 62);
+    height: 200px;
+    text-align: center;
+}
+
+.commo{
+    color:white;
+    padding-top: 23px;
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.H13{
+    font-size: 3em;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+.p3{
+    font-size: 1.6em;
+    padding-left: 150px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 5px;
+}
+
+span{
+    color: rgb(216, 62, 62);
+}
+
+.ENTREES{
+    text-align: center;
+}
+
+.section5{
+   background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+body{
+    background-color: #f1efef; 
+}
+
+.contact{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.par3{
+    text-align: center;
+}
+
+footer a{
+    padding-right: 20px;
+   padding-top: 15x;
+}
+
+footer{
+   background-color: black;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   display: flex;
+   justify-content: flex-end;
+   
+}
